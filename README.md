@@ -7,5 +7,5 @@ classDiagram
     +C ref
   }
   A <|-- B
-  A --> C
+  C --> A
 ```
