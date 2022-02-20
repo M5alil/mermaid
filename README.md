@@ -4,8 +4,8 @@ classDiagram
   class C 
   class A {
     +int Id
-    +C ref --> C
+    +C ref 
   }
   A <|-- B
-  
+  C <-- A
 ```
