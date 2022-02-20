@@ -1,6 +1,10 @@
 # mermaid
 ``` mermaid 
 classDiagram
-  class A 
+  class C 
+  class A {
+    +int Id
+    +C ref
+  }
   A <|-- B
 ```
