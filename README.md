@@ -2,5 +2,5 @@
 ``` mermaid 
 classDiagram
   class A 
-  A <-- B
+  A <|-- B
 ```
